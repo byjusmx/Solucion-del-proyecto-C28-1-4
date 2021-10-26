@@ -40,11 +40,11 @@ function draw() {
 
   Engine.update(engine);
 
-  // Title
+  // Título
   fill("#FFFF");
   textAlign("center");
   textSize(40);
-  text("EPIC ARCHERY", width / 2, 100);
+  text("TIRO CON ARCO ÉPICO", width / 2, 100);
 
  
   playerBase.display();
